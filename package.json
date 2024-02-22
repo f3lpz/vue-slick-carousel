@@ -38,7 +38,7 @@
     "lodash.assign": "^4.2.0",
     "lodash.debounce": "^4.0.8",
     "lodash.get": "^4.4.2",
-    "lodash.pick": "^4.4.0",
+    "lodash.pick": "4.0.0",
     "resize-observer-polyfill": "1.5.1",
     "vue": "^2.6.10"
   },
